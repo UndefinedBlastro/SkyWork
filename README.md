@@ -15,7 +15,7 @@ SkyWork is a framework which helps you build both slash and prefix commands with
 ## Installation
 Make sure that you've installed **node.js**, and it's version `v16.x` or above. Once done, open your folder ( from any IDE or Terminal ) and run this script:
 ```bash
-npm i github:aggelos-007/SkyWork discord.js
+npm i github:UndefinedBlastro/SkyWork discord.js
 ```
 ## Making your bot
 This section will guide you in initializing a client, creating commands and logging into your bot client.
