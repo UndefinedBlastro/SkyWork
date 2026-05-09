@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aggelos-007/SkyWork.git"
+    "url": "git+https://github.com/UndefinedBlastro/SkyWork.git"
   },
   "keywords": [
     "FrameWork",
@@ -19,12 +19,12 @@
     "d.js",
     "djs"
   ],
-  "author": "aggelos-007",
+  "author": "UndefinedBlastro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aggelos-007/SkyWork/issues"
+    "url": "https://github.com/UndefinedBlastro/SkyWork/issues"
   },
-  "homepage": "https://github.com/aggelos-007/SkyWork#readme",
+  "homepage": "https://github.com/UndefinedBlastro/SkyWork#readme",
   "devDependencies": {
     "@types/ms": "^0.7.32",
     "@types/node": "^20.8.6"
